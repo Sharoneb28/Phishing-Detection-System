@@ -72,3 +72,4 @@ st.markdown(
     "<p style='text-align:center;'>Machine Learning based security system</p>",
     unsafe_allow_html=True
 )
+
