@@ -1,0 +1,9 @@
+having_IP_Address,URL_Length,having_At_Symbol,Prefix_Suffix,HTTPS_Token,label
+-1,1,-1,-1,-1,-1
+1,-1,1,1,1,1
+-1,1,-1,1,-1,-1
+1,-1,1,1,1,1
+-1,1,-1,-1,-1,-1
+1,-1,1,1,1,1
+-1,1,-1,1,-1,-1
+1,-1,1,1,1,1
